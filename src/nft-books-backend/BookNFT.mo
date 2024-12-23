@@ -81,7 +81,7 @@ actor {
     };
 
     // Create a new book
-    public shared (msg_) func createBook(
+    public shared (_msg_) func createBook(
         bookId : Nat,
         name : Text,
         author : Text,
@@ -289,7 +289,7 @@ actor {
         };
 
         // Check resale price
-        let resalePrice = switch (nft.resalePrice) {
+        let _resalePrice = switch (nft.resalePrice) {
             case null { throw Error.reject("This NFT is not for sale") };
             case (?price) { price };
         };
