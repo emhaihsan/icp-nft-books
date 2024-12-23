@@ -1,5 +1,0 @@
-// Version: 1.0.0
-actor {
-  stable var bookIds : [Nat];
-  stable var tokenCounter : Nat
-};

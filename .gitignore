@@ -1,5 +1,6 @@
 # Motoko and ICP specific
 .dfx/
+.dfx/local/
 .vessel/
 canister_ids.json
 
