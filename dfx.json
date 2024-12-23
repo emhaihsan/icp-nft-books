@@ -1,0 +1,8 @@
+{
+    "canisters": {
+        "book_nft": {
+            "type": "motoko",
+            "main": "src/BookNFT.mo"
+        }
+    }
+}
