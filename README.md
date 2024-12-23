@@ -36,15 +36,8 @@ Deploy the canister using:
 dfx deploy
 ```
 
-## Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
-## License
-[Specify your license here]
-
-## Contact
-[Your contact information or project maintainer details]
+## Team Member
+- [Khoirul Aziz](https://github.com/khazeez
+)
+- [Riyando Assire Siregar](https://github.com/ras-24)
+- [Muhammad Ihsan](https://github.com/emhaihsan/)
