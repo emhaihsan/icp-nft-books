@@ -37,7 +37,6 @@ dfx deploy
 ```
 
 ## Team Member
-- [Khoirul Aziz](https://github.com/khazeez
-)
+- [Khoirul Aziz](https://github.com/khazeez)
 - [Riyando Assire Siregar](https://github.com/ras-24)
 - [Muhammad Ihsan](https://github.com/emhaihsan/)
